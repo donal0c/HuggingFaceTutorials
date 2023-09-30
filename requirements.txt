@@ -1,0 +1,8 @@
+transformers
+gradio
+torch
+bitsandbytes
+einops
+accelerate
+xformers
+scipy
